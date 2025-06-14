@@ -1,3 +1,20 @@
 Burak Yılmaz -22302848
 
 Fifa 2025
+
+commit d7370d2a8735010552ca5f3f50254b8b660101d0 (HEAD -> main, origin/main, origin/HEAD)
+Merge: 732004c f065c0f
+Author: Burak Yilmaz <153667849+Burak-5@users.noreply.github.com>
+Date:   Sat Jun 14 15:11:45 2025 +0300
+
+    Merge pull request #1 from Burak-5/new_information
+    
+    Favourite Game
+
+commit f065c0f31c469b6daadf0b2f9c85a56f736d42ec (origin/new_information, new_information)
+Author: Burak-5 <burak.yilmaz8745@gmail.com>
+Date:   Sat Jun 14 15:09:31 2025 +0300
+
+    Favourite Game
+    
+    I've inserted my favourite game to info txt
